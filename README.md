@@ -10,16 +10,12 @@ Dedicated to exploring the depth of cybersecurity, I find value in continuous le
 
 Here, you will primarily find two types of content:
 
-1. **CTF Writeups:** I enjoy participating in Capture The Flag (CTF) competitions and love to share my experiences and solutions with the cybersecurity community. In these writeups, you'll find step-by-step breakdowns of how I approach and solve various challenges, showcasing my grasp on topics like network traffic analysis, OWASP Top Ten exploitation, and log analysis.
+1. **CTF Writeups:** I enjoy participating in Capture The Flag (CTF) competitions and love to share my experiences and solutions with the cybersecurity community. In these writeups, you'll find step-by-step breakdowns of how I approach and solve various challenges, showcasing my grasp on topics like network traffic analysis, forensics, and log analysis.
 
 2. **School Projects:** As a student passionate about practical applications of academic knowledge, I have worked on a number of projects as part of my coursework and beyond. An example would be the File Integrity Monitor (FIM) project, a home security solution developed using PowerShell and Python scripting.
 
 ## Connect with Me
 
 Beyond GitHub, I'm also active on [LinkedIn](www.linkedin.com/in/alexandermoomaw). Feel free to connect with me there!
-
-If you have any questions or would like to collaborate on a project, feel free to [email](mailto:your_email@example.com) me.
-
-For more information about my professional journey and experience, please refer to my [resume](insert_link_to_resume.pdf).
 
 Thank you for stopping by!
