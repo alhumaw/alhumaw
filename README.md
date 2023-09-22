@@ -4,7 +4,7 @@ Hello and welcome to my GitHub! I'm Alexander, an aspiring cybersecurity profess
 
 ## About Me
 
-Dedicated to exploring the depth of cybersecurity, I find value in continuous learning and skill enhancement. Here on my GitHub, you'll see evidence of my interests in various aspects of cybersecurity, such as Linux-based infrastructure security, cryptography, and web exploitation. My involvement in competitive platforms, like Capture The Flag (CTF) events, and my academic projects allow me to apply and expand this knowledge in a practical manner
+I find value in continuous learning and skill enhancement. You'll see evidence of my interests in various aspects of cybersecurity, such as Linux-based infrastructure security, cryptography, and web exploitation. My involvement Capture The Flag (CTF) events, and my academic projects allow me to apply and expand this knowledge in a practical manner
 
 ## Repositories
 
