@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Profile</h1>
 <h3 align="center">💻 Cybersecurity Enthusiast 💻</h3>
-<h3 align="center">Currently building my knowledge on DFIR & Read Team Operations</h3>
+<h3 align="center">Currently building my knowledge on DFIR & Red Team Operations</h3>
 <h3 align="center">Check out my <a href="https://alhumaw.github.io">Github Page</a> </h3>
 
 <br>
